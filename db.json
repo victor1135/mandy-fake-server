@@ -1,9 +1,21 @@
 {
-  "Teacher":["Sam", "Felix", "Mandy"]
-  "Student": {
-    "Class": {
-       "A": ["Ryan","Vincent","Kid"],
-       "B": ["John","Marry","Nick"]
-     }
-  }
+   "Teacher":[
+      "Sam",
+      "Felix",
+      "Mandy"
+   ],
+   "Student":{
+      "Class":{
+         "A":[
+            "Ryan",
+            "Vincent",
+            "Kid"
+         ],
+         "B":[
+            "John",
+            "Marry",
+            "Nick"
+         ]
+      }
+   }
 }
